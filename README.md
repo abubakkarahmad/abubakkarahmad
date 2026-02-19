@@ -31,6 +31,26 @@ I am a London-based Software Developer with experience in designing, developing,
 - Scalable database architecture
 - Version control with Git
 
+### Key Projects
+
+# [OoNt – Multi-Service Lifestyle & Quick-Commerce App](https://oont.uk)
+- Developed a Flutter app for ordering groceries, essentials, and lifestyle products in one place
+- Integrated AI-powered features for personalized recommendations
+- Implemented secure login, multi-language support, and real-time order tracking
+
+# AI Agents for Hotel Reception (Hackathon Project, 2025) 
+- Built AI-powered reception agents for hotel bookings, check-in/out, and guest queries
+- Integrated hotel APIs for real-time availability
+- Outcome: Secured 3rd place; reduced check-in times by 80%, showing potential 25% cost savings
+
+# Digi Track: Expense & Budget Manager (2024) https://play.google.com/store/apps/details?id=app.playtechsolution.digi_track
+- Automated expense tracking with multi-account integration, Stripe payments, and PDF reports
+- Added real-time alerts, loan reminders, and AI-powered financial insights
+
+# ESD Accountability: Health & Fitness App (2023) https://esd-accountability.updatestar.com
+- Developed social fitness features including video uploads, challenges, and push notifications
+- Built cross-platform UI with full CRUD functionality
+
 ## Live Project
 https://oont.uk/
 
