@@ -33,8 +33,6 @@ I am a London-based Software Developer with experience in designing, developing,
 
 ## Live Project
 https://oont.uk/
-https://play.google.com/store/apps/details?id=mobile.mysafety.app
-https://play.google.com/store/apps/details?id=app.playtechsolution.digi_track
 
 ## Contact
 Email: abubakkarahmad327@email.com  
