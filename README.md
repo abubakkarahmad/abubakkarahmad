@@ -13,6 +13,7 @@ I am a London-based Software Developer with experience in designing, developing,
 - Java
 - JavaScript
 - TypeScript
+- HTML / CSS
 
 ### Frameworks & Technologies
 - Flutter
